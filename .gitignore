@@ -152,9 +152,9 @@ kernel/configs/android-*.cfg
 
 #Ignoring Android.bp link file
 #
-Android.bp
+# Android.bp
 
 out 
 clang-llvm
 gcc
-gcc32
+gcc32 
